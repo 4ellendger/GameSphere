@@ -1,0 +1,47 @@
+﻿Построение начато 22.11.2011 11:01:57.
+     1>Проект "D:\C++\TestSphere\TestSphere\TestSphere\TestSphere.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\TestSphere.unsuccessfulbuild".
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(162): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(185): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(192): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(400): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(407): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(418): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(424): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+     1>d:\c++\testsphere\testsphere\testsphere\main.cpp(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): см. объявление "sprintf"
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\TestSphere\TestSphere\Debug\TestSphere.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestSphere.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++\TestSphere\TestSphere\Debug\TestSphere.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\TestSphere\TestSphere\Debug\TestSphere.lib" /MACHINE:X86 Debug\GameLogic.obj
+         Debug\GameObject.obj
+         Debug\GLContext.obj
+         Debug\main.obj
+         Debug\Ray.obj
+         Debug\Sphere.obj
+         Debug\Vector3D.obj
+         LINK : не найден или не выполнена сборка D:\C++\TestSphere\TestSphere\Debug\TestSphere.exe при последней инкрементной компоновке; выполняется полная компоновка
+         TestSphere.vcxproj -> D:\C++\TestSphere\TestSphere\Debug\TestSphere.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\C++\TestSphere\TestSphere\Debug\TestSphere.exe;#1" /manifest Debug\TestSphere.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\TestSphere.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\TestSphere.lastbuildstate".
+     1>Построение проекта "D:\C++\TestSphere\TestSphere\TestSphere\TestSphere.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.20
